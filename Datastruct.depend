@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1387354337 source:c:\users\zkxp\documents\github\datastruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SqList.c"
+
+1387354540 source:c:\users\zkxp\documents\github\datastruct\sqlist.c
+	"stdio.h"
+	"stdlib.h"
+	"Status.h"
+
+1387353765 c:\users\zkxp\documents\github\datastruct\sqlist.c
+	"stdio.h"
+	"stdlib.h"
+	"Status.h"
+
+1387346704 c:\users\zkxp\documents\github\datastruct\status.h
+
